@@ -1,1 +1,1 @@
-# Langchain
+# Langchainの勉強用
